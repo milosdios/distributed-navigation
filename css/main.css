@@ -20,3 +20,18 @@ header {
   align-items: center;
   background-color: #e2e2e2;
 }
+
+header h1 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+header img {
+  max-height: 50px;
+  order: -1;
+  padding-left: 1rem;
+}
+
+header p {
+  font-size: 1.125rem;
+}
